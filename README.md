@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ps-create
+- 👋 Hi, I’m @KrakenEngineer
 - 👀 I'm interested in the development of automotive systems and the use of software architectures like AUTOSAR to standardize and optimize their functionality.
-- 🌱 I'm currently learning C++ and AUTOSAR, with a focus on developing skills and knowledge that will be useful in the automotive industry.
-- 💞️ I'm looking to collaborate on projects related to the development of automotive systems, particularly those that involve C++ and AUTOSAR.
+- 🌱 I'm currently learning new technologies and skills to further my development in the automotive industry, with a focus on C++ and AUTOSAR.
+- 💞️ I'm looking to collaborate on projects related to the development of automotive systems, leveraging my expertise and experience to drive success. Whether it's providing technical guidance, contributing to project deliverables, or adapting to new environments, I'm eager to continue growing as a Junior Software Engineer.
 
 <!---
 ps-create/ps-create is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
